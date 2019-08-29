@@ -1,0 +1,4 @@
+    #include "structs.h"
+    
+    extern Hero player;
+    extern Map Map;
